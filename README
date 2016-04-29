@@ -1,0 +1,11 @@
+First Commit of library. Using technologies: Spring/Hibernate
+
+
+
+Elapsed time - 20h
+
+
+// to do :
+- create draft(DAO/Controller/View(security taglibs))
+- book image (Service/FileBucket)
+- deploy project on Heroku
